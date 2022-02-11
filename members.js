@@ -1,3 +1,5 @@
+// Dataset transferred to array/object
+
 const members = [
     {
     firstName: 'John',
@@ -45,7 +47,6 @@ const members = [
     }
 ];
 
-// 
 
 module.exports = members;
 
