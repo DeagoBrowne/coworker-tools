@@ -1,3 +1,5 @@
+// Dataset transferred to array/object
+
 const members = [
     {
     firstName: 'John',
@@ -44,6 +46,7 @@ const members = [
     timezone: 'America/Los_Angeles'
     }
 ];
+
 
 module.exports = members;
 
